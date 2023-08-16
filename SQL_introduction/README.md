@@ -1,0 +1,1 @@
+This is a readme file which consist of database using mysql to store data
