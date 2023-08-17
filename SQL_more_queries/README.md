@@ -1,0 +1,1 @@
+This readme file focus on more queries with JOIN queries
