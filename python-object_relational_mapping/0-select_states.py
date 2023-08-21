@@ -21,7 +21,7 @@ def list_states(mysql_user, mysql_password, db_name):
         # Execute the query
         cur.execute(query)
         
-        # Fetch all the rows returned by the query
+        # Fetching all the rows returned by the query
         rows = cur.fetchall()
         
         # Display the results
